@@ -1,0 +1,12 @@
+{
+  "name": "use-confirm",
+  "version": "0.0.1",
+	"description": "Confirm your forms with ease",
+  "repository": "git@github.com:george-aidonidis/use-confirm.git",
+  "author": {
+		"name": "George Aidonidis",
+		"email": "georgeaidonidis@gmail.confirm",
+		"url": "https://iamgeorge.dev"
+		},
+  "license": "MIT"
+}
